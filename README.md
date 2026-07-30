@@ -1,5 +1,8 @@
 ## Hi Im pintoto 👋
 
+<img src="welcome.png">
+
+
 ## 🔧 Tech Stack
 
 <p>
