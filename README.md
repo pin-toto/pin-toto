@@ -3,4 +3,4 @@
 ## 🔧 Tech Stack
 <img src="https://camo.githubusercontent.com/3334093e6ccdc6d0b98e38986be30dc4cbdc9b7855bc5028cdc08ed08a2a0810/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43253246432b2b2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d63706c7573706c7573266c6f676f436f6c6f723d7768697465">
 
-<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fpython-logo%2F168886&opi=89978449">
+<img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png">
