@@ -1,6 +1,6 @@
 ## Hi Im pintoto 👋
 
-<img src="welcome.png">
+<img src="https://freeimage.host/i/C86fEsn">
 
 
 ## 🔧 Tech Stack
