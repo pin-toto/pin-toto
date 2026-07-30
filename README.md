@@ -10,3 +10,7 @@
 
   
 </p>
+
+ ##  GitHub Streak
+
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pin-toto&theme=discord-old-blurple&border_radius=4.6" alt="GitHub Streak" /></a>
