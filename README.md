@@ -1,6 +1,8 @@
+<img src="https://iili.io/C86fEsn.jpg">
+
+
 ## Hi Im pintoto 👋
 
-<img src="https://iili.io/C86fEsn.jpg">
 
 
 ## 🔧 Tech Stack
