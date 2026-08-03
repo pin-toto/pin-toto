@@ -19,4 +19,4 @@
  ##  GitHub Streak
 
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pin-toto&theme=discord-old-blurple&border_radius=4.6" alt="GitHub Streak" /></a>
-<img src="blob:https://abozanona.github.io/90f14559-e03b-4002-8410-72179edb9c01">
+<img src="blob:https://abozanona.github.io/90f14559-e03b-4002-8410-72179edb9c01"/>
