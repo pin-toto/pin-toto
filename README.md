@@ -8,15 +8,14 @@
 ## 🔧 Tech Stack
 
 <p>
-
-<img src="https://camo.githubusercontent.com/3334093e6ccdc6d0b98e38986be30dc4cbdc9b7855bc5028cdc08ed08a2a0810/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43253246432b2b2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d63706c7573706c7573266c6f676f436f6c6f723d7768697465">
-
-<img src="https://camo.githubusercontent.com/324b4cfa68deb1b9c0008c02e910370ae1e1b7141ce0fe77972b6ea034e7abb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">
-
-  
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
- ##  GitHub Streak
+## GitHub Streak
 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pin-toto&theme=discord-old-blurple&border_radius=4.6" alt="GitHub Streak" /></a>
-<img src="blob:https://abozanona.github.io/90f14559-e03b-4002-8410-72179edb9c01"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=pin-toto&theme=discord-old-blurple&border_radius=4.6" alt="GitHub Streak" />
+</a>
+
+<img src="https://raw.githubusercontent.com/pin-toto/pin-toto/main/pacman-contribution-graph.svg" alt="Pac-Man Graph" />
